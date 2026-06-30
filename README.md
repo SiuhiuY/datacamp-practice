@@ -1,8 +1,6 @@
 # DataCamp Practice
 
-This repository contains exercises completed while working through DataCamp learning tracks and courses. It serves as a record of my progress in developing data science skills, providing the technical foundations for larger machine learning rojects.
-
-The exercises focus on applying core concepts to small, self-contained case studies, bridging structured learning with practical implementation.
+This repository contains exercises completed while working through DataCamp learning tracks and courses. It serves as a record of my progress in developing data science skills, providing the technical foundations for larger rojects.
 
 ---
 
