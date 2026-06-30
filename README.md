@@ -32,23 +32,3 @@ SQL/
 | **Getting a Good Night's Sleep** | Explore relationships between lifestyle factors and sleep quality using survey data. | Data cleaning, exploratory data analysis, grouping, summary statistics, and data visualization using Pandas and Matplotlib |
 | **Investigating Netflix Movies** | Perform exploratory analysis on a movie dataset to identify trends and patterns. | Data manipulation, filtering, aggregation, exploratory data analysis and visualization |
 | **Analyzing Students' Mental Health** | Investigate factors associated with international students' mental health using SQL. | SQL querying, filtering, aggregation, `GROUP BY`, and analytical reporting |
-
----
-
-## Skills Developed
-
-### Python
-
-- Functions and modular programming
-- Data manipulation with Pandas
-- Exploratory data analysis (EDA)
-- Data visualization with Matplotlib
-- Writing reusable and maintainable code
-
-### SQL
-
-- Data filtering and sorting
-- Aggregation and summary statistics
-- `GROUP BY`
-- Analytical querying
-- Data reporting
