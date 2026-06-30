@@ -1,16 +1,54 @@
-# Practice from DataCamp
+# DataCamp Practice
 
-This repository contains exercises completed as part of DataCamp tracks and courses.
+This repository contains exercises completed while working through DataCamp learning tracks and courses. It serves as a record of my progress in developing data science skills, providing the technical foundations for larger machine learning rojects.
 
-## DataCamp Tracks & Certificates
+The exercises focus on applying core concepts to small, self-contained case studies, bridging structured learning with practical implementation.
 
-### Completed Tracks 
+---
 
-- Python Data Fundamentals - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/e717c5eda76a1abdc89c66c8ff34994e8a39960e)
-- Python Programming Fundamentals - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/451e9d3ecd966d5f1e7858b8ac0c6cfc5e2915e6)
-- Git Fundamentals - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/dfa85f2a91de103e8c8cc1006300c5b5f46abbd7)
+## Repository Structure
 
-### Selected Courses
+```text
+Python/
+│
+├── Python_programming/
+│   └── Functions to Register App Users
+│
+└── data_manipulation/
+    ├── Getting a Good Night's Sleep
+    └── Investigating Netflix Movies
 
-- Explainable Artificial Intelligence (XAI) Concepts - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/451780752aafb0cfc8ecc47d49ad2b6a1a1a8c16)
-- Explainable AI in Python - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/5e8919996985a5612cd733dad6d95577a21432d4)
+SQL/
+└── Analyzing Students' Mental Health
+```
+
+---
+
+## Exercises
+
+| Exercise | Description | Skills Practised |
+|----------|-------------|------------------|
+| **Functions to Register App Users** | Build a simple user registration workflow with input validation. | Python functions, modular programming, validation logic and reusable code |
+| **Getting a Good Night's Sleep** | Explore relationships between lifestyle factors and sleep quality using survey data. | Data cleaning, exploratory data analysis, grouping, summary statistics, and data visualization using Pandas and Matplotlib |
+| **Investigating Netflix Movies** | Perform exploratory analysis on a movie dataset to identify trends and patterns. | Data manipulation, filtering, aggregation, exploratory data analysis and visualization |
+| **Analyzing Students' Mental Health** | Investigate factors associated with international students' mental health using SQL. | SQL querying, filtering, aggregation, `GROUP BY`, and analytical reporting |
+
+---
+
+## Skills Developed
+
+### Python
+
+- Functions and modular programming
+- Data manipulation with Pandas
+- Exploratory data analysis (EDA)
+- Data visualization with Matplotlib
+- Writing reusable and maintainable code
+
+### SQL
+
+- Data filtering and sorting
+- Aggregation and summary statistics
+- `GROUP BY`
+- Analytical querying
+- Data reporting
