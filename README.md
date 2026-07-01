@@ -1,6 +1,6 @@
 # DataCamp Practice
 
-This repository contains exercises completed while working through DataCamp learning tracks and courses. It serves as a record of my progress in developing data science skills, providing the technical foundations for larger rojects.
+This repository contains exercises completed while working on DataCamp learning tracks and courses. It serves as a record of my progress in developing data science skills, providing the technical foundations for larger rojects.
 
 ---
 
