@@ -10,6 +10,7 @@ This repository contains exercises completed while working on DataCamp learning 
 Python/
 │
 ├── Python_programming/
+│   ├── Finding Exchange Rates for International Sales
 │   └── Functions to Register App Users
 │
 └── data_manipulation/
@@ -26,6 +27,7 @@ SQL/
 
 | Exercise | Description | Skills Practised |
 |----------|-------------|------------------|
+| **Building REST APIs** | Retrieve historical exchange rates from a public REST API and integrate them into international sales data for currency conversion. | REST API consumption, HTTP requests with requests, query parameters, JSON parsing, dictionary mapping, Pandas data manipulation
 | **Functions to Register App Users** | Build a simple user registration workflow with input validation. | Python functions, modular programming, validation logic and reusable code |
 | **Getting a Good Night's Sleep** | Explore relationships between lifestyle factors and sleep quality using survey data. | Data cleaning, exploratory data analysis, grouping, summary statistics, and data visualization using Pandas and Matplotlib |
 | **Investigating Netflix Movies** | Perform exploratory analysis on a movie dataset to identify trends and patterns. | Data manipulation, filtering, aggregation, exploratory data analysis and visualization |
